@@ -72,42 +72,12 @@
 
 ---
 
-### 🏆 Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=NIKHIL-MISHRA-COAT&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8" alt="GitHub Trophies"/>
-</p>
-
----
-
 ### 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=NIKHIL-MISHRA-COAT&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
   <img src="https://streak-stats.demolab.com/?user=NIKHIL-MISHRA-COAT&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NIKHIL-MISHRA-COAT&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
-</p>
-
----
-
-### 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NIKHIL-MISHRA-COAT&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" width="100%"/>
-</p>
-
----
-
-### 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/NIKHIL-MISHRA-COAT/NIKHIL-MISHRA-COAT/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/>
-</p>
-
-> ⚙️ The snake animation needs a one-time GitHub Actions setup — see the note below the README.
 
 ---
 
@@ -136,19 +106,3 @@
 </details>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8E75B2,100:2E9EF7&height=100&section=footer"/>
-
----
-
-<details>
-<summary>🛠️ Setup note: enabling the animated snake above</summary>
-
-The snake graph needs a one-time GitHub Action in this repo (`NIKHIL-MISHRA-COAT/NIKHIL-MISHRA-COAT`):
-
-1. Go to **Actions → New workflow → set up a workflow yourself**.
-2. Name the file `snake.yml` and paste in the workflow from [Platane/snk](https://github.com/Platane/snk#-installation) (README has the exact YAML to copy).
-3. Commit it — it runs on a schedule and pushes an `output` branch with the animated SVG.
-4. That's what the `github-contribution-grid-snake-dark.svg` link above points to, so once it runs once, the snake will appear automatically.
-
-If you'd rather skip this, just delete the "🐍 Contribution Snake" section — everything else works with zero setup.
-
-</details>
