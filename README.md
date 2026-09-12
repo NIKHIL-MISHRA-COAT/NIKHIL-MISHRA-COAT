@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2E9EF7,100:8E75B2&height=200&section=header&text=Nikhil%20Mishra&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Aspiring%20Data%20Engineer%20%7C%20AI%2FLLM%20Enthusiast&descAlignY=55&descSize=18"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2E9EF7,100:8E75B2&height=200&section=header&text=Nikhil%20Mishra&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Aspiring%20Data%20Engineer%20%7C%20AI%2FML%20Enthusiast&descAlignY=55&descSize=18"/>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Building+full-stack+apps+with+MERN+%26+Spring+Boot;Exploring+RAG+%2C+LangChain+%26+LLM+Agents;MCA+Student+%40+VESIT+(2024-2026);Always+shipping+something+new" alt="Typing SVG" />
