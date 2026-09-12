@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nikhil Mishra</h1>
-<p align="center"><b>Full-Stack Developer | Aspiring Data Engineer | AI/LLM Enthusiast</b> · 📍 Navi Mumbai, India</p>
+<p align="center"><b>Full-Stack Developer | Aspiring Data Engineer | AI/ML Enthusiast</b> · 📍 Navi Mumbai, India</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=NIKHIL-MISHRA-COAT&label=Views&color=2E9EF7&style=flat-square" height="20"/>
@@ -45,4 +45,4 @@
 
 </details>
 
-<p align="center"><i>⭐️ Open to full-stack, AI/LLM & data engineering opportunities!</i></p>
+<p align="center"><i>⭐️ Open to full-stack, AI/ML & data engineering opportunities!</i></p>
