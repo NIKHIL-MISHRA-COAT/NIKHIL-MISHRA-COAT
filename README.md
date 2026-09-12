@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2E9EF7,100:8E75B2&height=150&section=header&text=Nikhil%20Mishra&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Full-Stack%20Developer%20%7C%20AI%2FLLM%20Enthusiast&descAlignY=62&descSize=15"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2E9EF7,100:8E75B2&height=150&section=header&text=Nikhil%20Mishra&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Full-Stack%20Developer%20%7C%20AI%2FML%20Enthusiast&descAlignY=62&descSize=15"/>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=NIKHIL-MISHRA-COAT&label=Views&color=2E9EF7&style=flat-square" height="20"/>
@@ -22,7 +22,7 @@
 ### 🛠️ Tech Stack
 <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" height="18"/> <img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=white" height="18"/> <img src="https://img.shields.io/badge/-JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black" height="18"/> <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" height="18"/>
 <img src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white" height="18"/> <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white" height="18"/> <img src="https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=springboot&logoColor=white" height="18"/>
-<img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" height="18"/> <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" height="18"/> <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" height="18"/> <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" height="18"/> <img src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" height="18"/>
+<img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" height="18"/> <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" height="18"/> <img src="https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" height="18"/> <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" height="18"/> <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" height="18"/> <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" height="18"/> <img src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" height="18"/>
 
 </td>
 <td width="50%" valign="top">
@@ -73,10 +73,13 @@ Full-stack restaurant management (orders/inventory/payments) — 50+ concurrent 
 </td>
 <td width="33%" valign="top">
 
-⭐️ **Open to** full-stack, AI/LLM & data engineering roles — [let's connect](https://www.linkedin.com/in/nikhil-mishra-7a6bba259/)!
+**🗂️ StaffOS**
+Internal ops & workforce platform (Next.js 15, React 19, TypeScript, Supabase) — attendance/GPS, tasks, payroll, ticketing, live sync
 
 </td>
 </tr>
 </table>
+
+<p align="center">⭐️ <b>Open to</b> full-stack, AI/ML & data engineering roles — <a href="https://www.linkedin.com/in/nikhil-mishra-7a6bba259/">let's connect</a>!</p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8E75B2,100:2E9EF7&height=80&section=footer"/>
